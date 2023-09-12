@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-style: oblique
+}
+.bookmarks{
+    
+  text-align: center;
+    
+}
+li{
+    display: inline;
+
+}
+a{
+    text-decoration: none;
+
+} 
